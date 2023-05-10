@@ -1,0 +1,136 @@
+:root {
+  /* color */
+  --text-color:white;
+  --background-color: #331a7f;
+  --accent-color: #5C62D6;
+  /* size */
+  --size-lg: 32px;
+  --size-md: 26px;
+  --size-sm: 18px;
+  /* button */
+  --btn-width: 60px;
+  --btn-height: 60px;
+  /* border-radius */
+  --border-radius-lg: 20px;
+  --border-radius-sm: 5px;
+  /* animation */
+  --animation-duration: transform 300ms ease-in;
+}
+
+button{
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+body{
+  text-align: center;
+  background-color: var(--background-color);
+  
+}
+
+.game {
+  background: URL(img/background.png) center/cover no-repeat;
+  width: 50rem;
+  height: 31.25rem;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  border-radius: var(--border-radius-lg);
+}
+
+.game__header {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+  align-items: center;
+
+}
+
+.game__button {
+  width: var(--btn-width);
+  height: var(--btn-height);
+  background-color: var(--accent-color);
+  border-radius: var(--border-radius-sm);
+  font-size: var(--size-md);
+  color:var(--text-color);
+  transition: var(--animation-duration)
+}
+
+.game__button:hover {
+  transform: scale(1.1);
+}
+
+.game__score {
+  width: var(--btn-width);
+  height: var(--btn-height);
+  text-align: center;
+  line-height: 60px;
+  font-size: var(--size-lg);
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  border-radius: 50%;
+  margin-top: 0.5rem;
+  visibility: hidden;
+  cursor: auto;
+  user-select: none;
+  
+}
+
+.game__timer {
+  width: 80px;
+  background-color: #CAE7D3;
+  color:var(--accent-color) ;
+  border: 3px solid;
+  text-align: center;
+  font-size: var(--size-md);
+  margin-top: 0.5rem;
+  border-radius: var(--border-radius-sm);
+  visibility: hidden;
+  cursor: auto;
+  user-select: none;
+}
+
+.game__field {
+  width: 100%;
+  height: 100%;
+  margin-top: 0.625rem;
+  position: relative; 
+}
+
+.pop-up {
+  width: 400px;
+  height: 140px;
+  padding: 20px;
+  border-radius: var(--border-radius-lg);
+  background-color: #00000090;
+  color: var(--text-color);
+  text-align: center;
+  margin: auto;
+  transform: translateY(-150%);
+}
+
+.pop-up--hide {
+  display: none;
+}
+
+.pop-up__refresh {
+  width: var(--btn-width);
+  height: var(--btn-height);
+  font-size: var(--size-md);
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  border-radius: 50%;
+
+}
+
+.pop-up__message {
+  display: block;
+  font-size: var(--size-lg);
+
+}
+.fish:hover,
+.garbage:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}

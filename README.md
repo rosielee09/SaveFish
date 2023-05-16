@@ -16,6 +16,8 @@ Visit the live game: (https://rosielee09.github.io/Save-fish-game/)
 
 1. Designing the Game Logic Diagram:
 
+![SaveFish Game Diagram](https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de)
+
 2. Implementing Function-Based Coding:
    - Game Field Creation & Random Item Placement
    - Variable Management to track the game's status

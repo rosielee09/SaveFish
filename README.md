@@ -1,4 +1,4 @@
-# savefish-game
+# SaveFish Game
 https://rosielee09.github.io/SaveFish
 How to Play?
 1) Click Start Button

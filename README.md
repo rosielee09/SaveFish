@@ -17,16 +17,16 @@ Visit the live game: https://rosielee09.github.io/SaveFish
 1. Designing the Game Logic Diagram:
 
 2. Implementing Function-Based Coding:
-   -Game Field Creation & Random Item Placement
-   -Variable Management to track the game's status
-   -Event Listeners for game buttons
-   -Functions to start and stop the game
-   -Game Timer implementation
-   -Item Click Handlers: distinguishing between fish (causing death) and trash (increasing the score)
-   -Sound Integration and Error Fixing 
+   - Game Field Creation & Random Item Placement
+   - Variable Management to track the game's status
+   - Event Listeners for game buttons
+   - Functions to start and stop the game
+   - Game Timer implementation
+   - Item Click Handlers: distinguishing between fish (causing death) and trash (increasing the score)
+   - Sound Integration and Error Fixing 
 3. Refactor using OOP
-   -Improved code organization and maintainability by applying OOP principles
-   -Restructured components into separate classes for clarity and ease of maintenance
+   - Improved code organization and maintainability by applying OOP principles
+   - Restructured components into separate classes for clarity and ease of maintenance
 
 ## What I learned
 1. Visualizing the big picture for effective planning and development.

@@ -1,6 +1,6 @@
 # 'Save fish' Game
 ## Play the Game
-Visit the live game: https://rosielee09.github.io/SaveFish
+Visit the live game: (https://rosielee09.github.io/Save-fish-game/)
 
 ## How to Play?
 1) Click the Start button to begin the game

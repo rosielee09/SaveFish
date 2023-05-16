@@ -1,11 +1,11 @@
 # 'Save fish' Game
 ## Play the Game
-Visit the live game: [https://rosielee09.github.io/SaveFish]
+Visit the live game: https://rosielee09.github.io/SaveFish
 
 ## How to Play?
 1) Click the Start button to begin the game
 2) Within the time limit, click on all the trash items to save the fishes
-3) Be careful! If you click on a fish, you lose. Enjoy the challenge!
+3) Be careful! If you click on a 🐟, you lose. Enjoy the challenge😸!
 
 ## Technologies Used
 <p> 
@@ -17,16 +17,16 @@ Visit the live game: [https://rosielee09.github.io/SaveFish]
 1. Designing the Game Logic Diagram:
 
 2. Implementing Function-Based Coding:
-   1)Game Field Creation & Random Item Placement
-   2)Variable Management to track the game's status
-   3)Event Listeners for game buttons
-   4)Functions to start and stop the game
-   5)Game Timer implementation
-   6)Item Click Handlers: distinguishing between fish (causing death) and trash (increasing the score)
-   7)Sound Integration and Error Fixing 
+   -Game Field Creation & Random Item Placement
+   -Variable Management to track the game's status
+   -Event Listeners for game buttons
+   -Functions to start and stop the game
+   -Game Timer implementation
+   -Item Click Handlers: distinguishing between fish (causing death) and trash (increasing the score)
+   -Sound Integration and Error Fixing 
 3. Refactor using OOP
-   1)Improved code organization and maintainability by applying OOP principles
-   2)Restructured components into separate classes for clarity and ease of maintenance
+   -Improved code organization and maintainability by applying OOP principles
+   -Restructured components into separate classes for clarity and ease of maintenance
 
 ## What I learned
 1. Visualizing the big picture for effective planning and development.

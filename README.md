@@ -1,11 +1,11 @@
 # 'Save fish' Game
 ## Play the Game
-Visit the live game: (https://rosielee09.github.io/Save-fish-game/)
+Visit the live game [Here!](https://rosielee09.github.io/Save-fish-game/)
 
 ## How to Play?
-1) Click the Start button to begin the game
-2) Within the time limit, click on all the trash items to save the fishes
-3) Be careful! If you click on a 🐟, you lose. Enjoy the challenge😸!
+1. Click the Start button to begin the game
+2. Within the time limit, click on all the trash items to save the fishes
+3. Be careful! If you click on a 🐟, you lose. Enjoy the challenge😸!
 
 ## Technologies Used
 <p> 
@@ -16,7 +16,8 @@ Visit the live game: (https://rosielee09.github.io/Save-fish-game/)
 
 1. Designing the Game Logic Diagram:
 
-![SaveFish Game Diagram](https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de)
+![SaveFish Game Diagram]
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de)" alt="html5" width="400" height="400"/>
 
 2. Implementing Function-Based Coding:
    - Game Field Creation & Random Item Placement

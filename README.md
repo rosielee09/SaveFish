@@ -16,8 +16,7 @@ Visit the live game [Here!](https://rosielee09.github.io/Save-fish-game/)
 
 1. Designing the Game Logic Diagram:
 
-![SaveFish Game Diagram]
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de)" alt="html5" width="400" height="400"/>
+![SaveFish Game Diagram](<img src="https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de" alt="html5" width="400" height="400"/>)
 
 2. Implementing Function-Based Coding:
    - Game Field Creation & Random Item Placement
